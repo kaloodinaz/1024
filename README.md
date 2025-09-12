@@ -2,7 +2,7 @@
 
 [Play Now](https://kaloodinaz.github.io/1024/)
 
-![1024 Game](https://kaloodinaz.github.io/1024/assets/images/screenshot.png)
+![1024 Game](https://kaloodinaz.github.io/1024/screenshot.jpg)
 
 ---
 
@@ -17,7 +17,7 @@ Each move spawns a new tile, and the game ends when no more moves are possible.
 ## 🔧 How to Play
 
 - **Controls**: Use the arrow keys (or swipe gestures on mobile) to move all tiles in the chosen direction.  
-- **Objective**: Combine tiles with the same number to create a tile with their sum (e.g., 2 + 2 → 4, 4 + 4 → 8, etc.).  
+- **Objective**: Combine tiles with the same number to create a tile with their sum (e.g., 1 + 1 → 2, 2 + 2 → 4, etc.).  
 - **Goal**: Reach the 1024 tile to win the game.  
 - **Game Over**: The game ends when there are no valid moves left on the board.
 
@@ -35,7 +35,7 @@ Each move spawns a new tile, and the game ends when no more moves are possible.
 ## 📚 About the Developer
 
 Kaloo Dinaz is a developer known for creating engaging and creative web-based games.  
-They have developed several variations of the 2048 game, including themed versions like [2048 Doge](https://kaloodinaz.github.io/doge2048/) and [2048 Cupcakes](https://2048cupcakes.co.uk/).  
+They have developed several variations of the 2048 game, including themed versions like 2048 Doge and 2048 Cupcakes.  
 Explore more of their projects on their [GitHub profile](https://github.com/kaloodinaz).
 
 ---
